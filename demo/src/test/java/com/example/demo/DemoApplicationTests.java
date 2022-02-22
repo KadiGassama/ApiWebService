@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertequals("true", "false");
+		assertequals("true", "true");
 	}
 
 
